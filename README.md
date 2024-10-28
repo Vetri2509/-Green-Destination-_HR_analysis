@@ -1,6 +1,6 @@
 
 # Green Destination HR Analysis
-![Attrition dashboard](https://github.com/VINAYDA11061/Green-Destination-Project/assets/125648329/ed1fcdb1-93e2-4fbb-875a-f7794a6af893)
+![Attrition dashboard](https://github.com/Vetri2509/-Green-Destination-_HR_analysis/blob/main/Green%20Destination%20Dashboard.png?raw=true)
 
 
 
